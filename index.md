@@ -1,4 +1,4 @@
-#神笔云
+# 神笔云
 
 
 
@@ -31,12 +31,12 @@
 
 
 
-[苹果手机如何注册一个美区ID并充值](ios_id.md)
+[苹果手机如何注册一个美区ID并充值](advance/ios_id.md)
 
 
 
-[苹果手机怎么使用tiktok](ios_tiktok.md)
+[苹果手机怎么使用tiktok](advance/ios_tiktok.md)
 
 
 
-[安卓手机怎么使用tiktok](and_tiktok.md)
+[安卓手机怎么使用tiktok](advabce/and_tiktok.md)
