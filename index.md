@@ -9,7 +9,7 @@
 
 
 
-[window电脑Clash](doc/win_v2rayn.md)
+[window电脑Clash](doc/clashwin.md)
 
 
 
