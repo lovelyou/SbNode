@@ -39,4 +39,4 @@
 
 
 
-[安卓手机怎么使用tiktok](advabce/and_tiktok.md)
+[安卓手机怎么使用tiktok](advance/and_tiktok.md)
