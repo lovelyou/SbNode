@@ -1,3 +1,5 @@
+# mac 使用小猫的方法
+
 小猫下载地址
 
 clashx适配 macOS 13请下载   https://shenbicloud.oss-cn-hongkong.aliyuncs.com/ClashX.dmg
