@@ -13,7 +13,7 @@
 
 
 
-[安卓系统](doc/andriod.md)
+[安卓系统](doc/android.md)
 
 
 
@@ -29,8 +29,14 @@
 
 [安卓手机部分外贸apk下载](advance/and_apk.md)
 
+
+
 [苹果手机如何注册一个美区ID并充值](ios_id.md)
 
+
+
 [苹果手机怎么使用tiktok](ios_tiktok.md)
+
+
 
 [安卓手机怎么使用tiktok](and_tiktok.md)
