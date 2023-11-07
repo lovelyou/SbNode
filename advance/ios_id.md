@@ -12,8 +12,7 @@
 
 
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="http://124.223.202.199/appleidreg.mp4
-" type="video/mp4">
+      <source id="mp4" src="http://124.223.202.199/appleidreg.mp4" type="video/mp4">
 </videos>
 
 
