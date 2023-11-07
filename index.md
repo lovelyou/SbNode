@@ -3,7 +3,7 @@
 
 
 
-# 使用教程
+## 使用教程
 
 [window电脑V2RayN](doc/win_v2rayn.md)
 
@@ -13,7 +13,7 @@
 
 
 
-[安卓系统](doc/android.md)
+[安卓系统clash for android](doc/android.md)
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-# 进阶教程
+##进阶教程
 
 [安卓手机部分外贸apk下载](advance/and_apk.md)
 
