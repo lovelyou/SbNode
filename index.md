@@ -2,8 +2,16 @@
 
 
 
+## 订阅连接的获取
+
+[订阅连接获取](doc/subscribe.md)
 
 ## 使用教程
+
+
+
+
+
 
 [window电脑V2RayN](doc/win_v2rayn.md)
 
@@ -25,7 +33,7 @@
 
 
 
-##进阶教程
+## 进阶教程
 
 [安卓手机部分外贸apk下载](advance/and_apk.md)
 
