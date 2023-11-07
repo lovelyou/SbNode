@@ -9,7 +9,7 @@
 美区id注册方法和软件下载 方法！充值可以自己到淘宝购买水果卡充值！
 
 
-<video id="video" controls="" preload="none" poster="封面"><source id="mp4" src="http://124.223.202.199/appleidreg.mp4" type="video/mp4"></videos>
+<video id="video" controls="" preload="none" ><source id="mp4" src="http://124.223.202.199/appleidreg.mp4" type="video/mp4"></videos>
 
 
 
