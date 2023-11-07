@@ -10,9 +10,7 @@
 
 ### 注册美区id的方法
 
-
-<video id="video" controls="" preload="none" ><source id="mp4" src="video/appleidreg.mp4" type="video/mp4"></videos>
-
+[http://124.223.202.199/appleidreg.mp4](http://124.223.202.199/appleidreg.mp4)
 
 ### 注册完美区id后如何用支付宝充值，干搞中奸商，不当韭菜。怕麻烦，建议找本站客服购买id，不带小火箭10￥ 带小火箭40￥，价格公道，童叟无欺
 

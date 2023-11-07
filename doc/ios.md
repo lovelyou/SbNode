@@ -9,15 +9,13 @@
 美区id注册方法和软件下载 方法！充值可以自己到淘宝购买水果卡充值！
 
 
-<video id="video" controls="" preload="none" ><source id="mp4" src="video/appleidreg.mp4"  type="video/mp4"></videos>
-
-
+[http://124.223.202.199/appleidreg.mp4](http://124.223.202.199/appleidreg.mp4)
 
 购买独享带小火箭id  40￥
 
 换好ID境外后点击以连接IOS下载
+[https://apps.apple.com/us/app/shadowrocket/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-https://apps.apple.com/us/app/shadowrocket/id932747118
 
 首先把手机的时间，时区调整正确，和正确的北京时间不能差30秒，有些喜欢把手机时间搞得很个性，都用不了。
 打开 Shadowrocket，点击右上角 “+”号 添加节点，类型选择 Subscribe
