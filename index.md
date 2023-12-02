@@ -38,6 +38,9 @@
 [安卓手机部分外贸apk下载](advance/and_apk.md)
 
 
+[App Store使用礼品卡充值，不需要银行卡](advance/appstore_giftcard.md)
+
+
 
 [苹果手机如何注册一个美区ID并充值](advance/ios_id.md)
 
@@ -45,6 +48,8 @@
 
 [苹果手机怎么使用tiktok](advance/ios_tiktok.md)
 
+
+[苹果手机怎么更换APPStore的AppleID](advance/ios_id_change.md)
 
 
 [安卓手机怎么使用tiktok](advance/and_tiktok.md)
