@@ -13,23 +13,23 @@
 
 
 
-[window电脑V2RayN](doc/win_v2rayn.md)
+[🍀window电脑V2RayN](doc/win_v2rayn.md)
 
 
 
-[window电脑Clash](doc/clashwin.md)
+[🍀window电脑Clash](doc/clashwin.md)
 
 
 
-[安卓系统clash for android](doc/android.md)
+[🦋安卓系统clash for android](doc/android.md)
 
 
 
-[苹果手机iphone或者苹果平版ipad](doc/ios.md)
+[🍏苹果手机iphone或者苹果平版ipad](doc/ios.md)
 
 
 
-[mac苹果电脑clash小猫](doc/mac_clash.md)
+[🍏mac苹果电脑clash小猫](doc/mac_clash.md)
 
 
 
