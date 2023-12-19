@@ -17,9 +17,17 @@ shop.484.me可以购买！
 
 2，在 iPhone、iPad 或 iPod touch 上，打开 App Store App。在屏幕顶部，轻点登录按钮  或你的照片。
 
+![](../images/appstore/1.jpg)
+
+
 3，轻点“兑换充值卡或代码”。如果你没有看到“兑换充值卡或代码”选项，请使用你的 Apple ID 登录。
+
+![](../images/appstore/2.jpg)
 
 4，轻点“使用摄像头”，然后按照屏幕上的说明操作。如果你在兑换充值卡时遇到问题，请轻点“Enter Code Manually”（手动输入代码），然后按照屏幕上的说明操作。
 轻点“完成”。
+
+
+![](../images/appstore/3.jpg)
 
 按以上步骤可以完成充值！
