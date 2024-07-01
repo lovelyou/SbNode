@@ -23,6 +23,7 @@ clashx macOS 10.12/10.13 的版本 请下载 https://github.com/yichengchen/clas
 
 
 
+
 安装小猫需要把小猫拖入到应用程序（部分mac下载没有自动解压，还需要手动解压后再放入应用程序）
 
 ![](../images/mac/20240527144101.jpg)
