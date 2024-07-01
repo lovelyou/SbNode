@@ -19,7 +19,7 @@ clashx macOS 10.12/10.13 的版本 请下载 https://github.com/yichengchen/clas
 打不开小猫，请到安全性与隐私里面充许打开。
 
 
-![](../images/mac/220240701120044.jpg)
+![](../images/mac/20044.jpg)
 
 
 
