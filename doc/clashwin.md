@@ -18,22 +18,22 @@ settings----->language----->中文
 
 第一步，设置语言，已是中文的可以跳过
 
-![](https://cloud.sbnode.com/images/winclash/1.jpg)
+![](../images/winclash/1.jpg)
 
 
 第二步，导入本网站提供的配置文件
 
 配制文件的增加，选择 【配置】----【新建】
-![](https://cloud.sbnode.com/images/winclash/2.jpg)
+![](../images/winclash/2.jpg)
 
 第三步：填写配制信息，具体如图所示
 
-![](https://cloud.sbnode.com/images/winclash/3.jpg)
+![](../images/winclash/3.jpg)
 
 第四步：这一步是了解如何管理配置文件。
 
 
-![](https://cloud.sbnode.com/images/winclash/4.jpg)
+![](../images/winclash/4.jpg)
 
 
 第五步：这一步是学习如何，选择，查看，配置文件中的服务器节点。
@@ -41,9 +41,9 @@ settings----->language----->中文
 我们一定要选规则，或者全局，默认情况下，我们选规则模式
 
 
-![](https://cloud.sbnode.com/images/winclash/5.jpg)
+![](../images/winclash/5.jpg)
 
 
 
 第六步：开启小猫，使用代理文件中所用的节点。选择设置----开启系统代理。如果有其它功能您想学习和摸索，请自行研究。
-![](https://cloud.sbnode.com/images/winclash/6.jpg)
+![](../images/winclash/6.jpg)
