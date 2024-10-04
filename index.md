@@ -56,3 +56,6 @@
 
 
 [安卓手机怎么使用tiktok](advance/and_tiktok.md)
+
+
+[Windows电脑 DNS被劫持，如何应对](advance/win_dns.md)
