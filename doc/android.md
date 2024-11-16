@@ -31,28 +31,28 @@ https://shenbicloud.oss-cn-hongkong.aliyuncs.com/cfa-2.5.9-foss-universal-releas
 **使用之前，请把你自己的手机时间校对准确，确认手机时间准确再使用，特别是华为手机，时间不准确是常有的事。华为手机订阅不上，请开启小猫定位权限，读写权限，时间同步权限自己百度 安卓手机同步。时间不准确不能使用。。。**
 
 
-打开软件选择配制
+1、打开软件选择配制
 
 
 ![](../images/android_clash/1.jpg)
 
-点击加号增加配制
+2、点击加号增加配制
 
 ![](../images/android_clash/2.jpg)
 
-选择URL下载
+3、选择URL下载
 
 
 ![](../images/android_clash/3.jpg)
 
 
-复制订阅连接
+4-1复制订阅连接
 
 
 ![](../images/android_clash/4.jpg)
 
 
-网站仪表盘---->一键订阅复制订阅地址
+4-2网站仪表盘---->一键订阅复制订阅地址
 
 
 ![](../images/android_clash/4_1.jpg)
@@ -71,23 +71,23 @@ URL:请到网站的【一键订阅】去复制
 ![](../images/android_clash/5.jpg)
 
 
-选择刚刚填写的配置内容
+5、选择刚刚填写的配置内容
 
 ![](../images/android_clash/6.jpg)
 
 
-返回主页后，点此启动
+6、返回主页后，点此启动
 
 ![](../images/android_clash/7.jpg)
 
 
-选择上网节点方法启动后会出现【代理】规则
+7、选择上网节点方法启动后会出现【代理】规则
 
 
 ![](../images/android_clash/8.jpg)
 
 
-进去代理规则后，可以选择相应节点上网，有数字的节点表示可以正常上网
+7-2进去代理规则后，可以选择相应节点上网，有数字的节点表示可以正常上网
 
 
 ![](../images/android_clash/9.jpg)
