@@ -34,21 +34,29 @@ https://shenbicloud.oss-cn-hongkong.aliyuncs.com/cfa-2.5.9-foss-universal-releas
 打开软件选择配制
 
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/1.jpg)
+![](../images/android_clash/1.jpg)
 
 点击加号增加配制
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/2.jpg)
+![](../images/android_clash/2.jpg)
 
 选择URL下载
 
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/3.jpg)
+![](../images/android_clash/3.jpg)
 
 
 复制订阅连接
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/4.jpg)
+
+![](../images/android_clash/4.jpg)
+
+
+网站仪表盘---->一键订阅复制订阅地址
+
+
+![](../images/android_clash/4—_1.jpg)
+
 
 
 **填写配制信息【请按数字步骤逐个填写操作】**
@@ -60,26 +68,26 @@ URL:请到网站的【一键订阅】去复制
 更新时间：1000
 
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/5.jpg)
+![](../images/android_clash/5.jpg)
 
 
 选择刚刚填写的配置内容
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/6.jpg)
+![](../images/android_clash/6.jpg)
 
 
 返回主页后，点此启动
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/7.jpg)
+![](../images/android_clash/7.jpg)
 
 
 选择上网节点方法启动后会出现【代理】规则
 
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/8.jpg)
+![](../images/android_clash/8.jpg)
 
 
 进去代理规则后，可以选择相应节点上网，有数字的节点表示可以正常上网
 
 
-![](https://btflycloud.oss-cn-hongkong.aliyuncs.com/images/androidclash/androidclash/9.jpg)
+![](../images/android_clash/9.jpg)
