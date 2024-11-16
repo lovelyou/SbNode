@@ -16,7 +16,7 @@
 
 连接1**请从浏览器打开下载**
 
-http://file.sbno.de/apk/cfa-2.5.9-foss-universal-release.apk
+https://file.sbno.de/apk/cfa-2.5.9-foss-universal-release.apk
 
 备用下载 **请从浏览器打开下载**
 
@@ -55,7 +55,7 @@ https://shenbicloud.oss-cn-hongkong.aliyuncs.com/cfa-2.5.9-foss-universal-releas
 网站仪表盘---->一键订阅复制订阅地址
 
 
-![](../images/android_clash/4—_1.jpg)
+![](../images/android_clash/4_1.jpg)
 
 
 
