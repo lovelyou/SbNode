@@ -20,34 +20,6 @@
 
 
 
-
-
-
-
-
-[🍀window电脑V2RayN](doc/win_v2rayn.md)
-
-
-
-[🍀window电脑Clash](doc/clashwin.md)
-
-
-
-[🦋安卓系统clash for android](doc/android.md)
-
-
-[安卓系统Surfboard](/doc/android_Surfboard.md)
-
-
-
-[🍏苹果手机iphone或者苹果平版ipad](doc/ios.md)
-
-
-
-[🍏mac苹果电脑clash小猫](doc/mac_clash.md)
-
-
-
 ## 进阶教程(选学)
 
 [安卓手机部分外贸apk下载](advance/and_apk.md)
