@@ -9,7 +9,7 @@ surfboard 和clash一样。是分流使用软件。
 
 软件下载 
 
-http://file.sbno.de/apk/Surfboard_2.22.9.apk
+https://file.sbno.de/apk/Surfboard_2.22.9.apk
 
 1打开软件选择配制文件。
 
