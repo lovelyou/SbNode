@@ -7,7 +7,7 @@
 **教程仅供参考，实际操作经过一下自己的大脑。**
 
 
-下载连接   https://cloud.sbnode.com/win/Clash.Verge_1.3.7_x64-setup.exe
+下载连接   https://cloud.sbnode.com/win/Clash.Verge_1.3.8_x64-setup.exe
 
 
 1，关掉360等系列软件
@@ -51,4 +51,4 @@ settings----->language----->中文
 
 
 第六步：开启小猫，使用代理文件中所用的节点。选择设置----开启系统代理。如果有其它功能您想学习和摸索，请自行研究。
-![](../images/winclash/6.jpg)
+![](../images/winclash/7.jpg)
