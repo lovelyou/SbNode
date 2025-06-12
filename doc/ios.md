@@ -9,7 +9,7 @@
 美区id注册方法和软件下载 方法！充值可以自己到淘宝购买水果卡充值！
 
 
-[http://124.223.202.199/appleidreg.mp4](http://124.223.202.199/appleidreg.mp4)
+[苹果外区账号注册方法](https://btflyco.s3.ap-northeast-1.amazonaws.com/appleidreg.mp4)
 
 购买独享带小火箭id  40￥
 
