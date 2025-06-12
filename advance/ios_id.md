@@ -10,7 +10,7 @@
 
 ### 注册美区id的方法
 
-[http://124.223.202.199/appleidreg.mp4](http://124.223.202.199/appleidreg.mp4)
+[苹果外区账号注册方法](https://btflyco.s3.ap-northeast-1.amazonaws.com/appleidreg.mp4)
 
 ### 注册完美区id后如何用支付宝充值，干搞中奸商，不当韭菜。怕麻烦，建议找本站客服购买id，不带小火箭10￥ 带小火箭40￥，价格公道，童叟无欺
 
