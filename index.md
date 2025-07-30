@@ -18,6 +18,8 @@
 | X | X |X | X | X |
 
 
+mac电脑  V2rayU使用[教程](doc/mac_v2rayu.md)  
+
 
 
 ## 进阶教程(选学)
