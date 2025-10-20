@@ -11,14 +11,19 @@
 
 
 
-| Windows电脑 | MAC苹果电脑| iphone手机/平板 | 安卓/鸿蒙4 | Linux|
-| --- | --- | --- | --- | --- |
-| clash [下载]( https://file.sbno.de/win/Clash.Verge_1.3.8_x64-setup.exe) [教程](doc/clashwin.md)| intel[下载](https://file.sbno.de/mac/ClashX.Meta.zip) [教程](doc/mac_clash.md)| 小火箭[下载](https://apps.apple.com/us/app/shadowrocket/id932747118) [教程](doc/ios.md)| clash[下载](https://file.sbno.de/apk/cfa-2.5.9-foss-universal-release.apk) [教程](doc/android.md)| ubuntu/debian下载|
-| V2N[下载](https://shenbicloud.oss-cn-hongkong.aliyuncs.com/net48.zip)  [教程](doc/win_v2rayn.md) | Arm下载 教程| X | Surfboard[下载](https://file.sbno.de/apk/Surfboard_2.22.9.apk) [教程](/doc/android_Surfboard.md) | 红帽系列下载 |
-| X | X |X | X | X |
+#### Hiddify-app (全平台支持)
 
 
-mac电脑  V2rayU使用[教程](doc/mac_v2rayu.md)  
+[windows/linux/mac使用教程](doc/Hiddify/hiddify_win.md)
+
+[安卓/IOS苹果手机使用教程](doc/Hiddify/hiddify_ios.md)
+
+
+Mac使用教程
+
+
+
+
 
 
 
