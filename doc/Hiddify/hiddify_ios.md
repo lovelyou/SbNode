@@ -21,30 +21,30 @@
 
 1，下载好后打开软件
 
-![](../images/hoddify/win/1.jpg)
+![](../../images/hoddify/win/1.jpg)
 
 
 2,一般选择手动输入，如果已复制，可以直接  剪贴板
 
 
-![](../images/hoddify/win/2.jpg)
+![](../../images/hoddify/win/2.jpg)
 
 
 3，名称：随便填   网址：填写“订阅连接”，订阅连接在网站“一键订阅”处  复制
 
 
-![](../images/hoddify/win/3.jpg)
+![](../../images/hoddify/win/3.jpg)
 
 
 4，添加好了  回到主页
 
 
-![](../images/hoddify/win/5.jpg)
+![](../../images/hoddify/win/5.jpg)
 
 
 5，选择节点   
 
-![](../images/hoddify/win/6.jpg)
+![](../../images/hoddify/win/6.jpg)
 
 
 

@@ -19,17 +19,17 @@ windows教程开始：
 
 1，第一步，打开主文件.
 
-![](../images/hoddify/win/0.jpg)
+![](../../../../../images/hoddify/win/0.jpg)
 
 
 2，选择添加配置
 
 
-![](../images/hoddify/win/1.jpg)
+![](../../../../images/hoddify/win/1.jpg)
 
 
 
-![](../images/hoddify/win/2.jpg)
+![](../../../images/hoddify/win/2.jpg)
 
 
 
@@ -37,7 +37,7 @@ windows教程开始：
 
 
 
-![](../images/hoddify/win/3.jpg)
+![](../../images/hoddify/win/3.jpg)
 
 
 4，启动代理
@@ -48,4 +48,4 @@ windows教程开始：
 5，选择自己合适的节点，供自己使用
 
 
-![](../images/hoddify/win/5.jpg)
+![](../../images/hoddify/win/5.jpg)
