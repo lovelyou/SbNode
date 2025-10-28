@@ -55,7 +55,7 @@ sing-box 目前支持  安卓  苹果 两个系统，
 
 
 
-![](../../images/sing_box/andioandioandio/5.jpg)
+![](../../images/sing_box/andio/5.jpg)
 
 
 
@@ -67,7 +67,7 @@ sing-box 目前支持  安卓  苹果 两个系统，
 概述面版简介
 
 
-![](../../images/sing_box/andioandio/6.jpg)
+![](../../images/sing_box/andio/6.jpg)
 
 
 
