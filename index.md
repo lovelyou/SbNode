@@ -21,7 +21,7 @@
 
 #### Sing-box 安卓/苹果 移动端教程
 
-[安卓/IOS苹果手机使用教程](doc/Hiddify/hiddify_ios.md)
+[安卓/IOS苹果手机使用教程](doc/sing_box/sing_box_ios.md)
 
 
 
