@@ -11,6 +11,12 @@
 
 
 
+
+####  windows平台 V2N
+
+[windows/linux/mac使用教程](doc/win_v2rayn.md)
+
+
 #### Hiddify-app (全平台支持)
 
 

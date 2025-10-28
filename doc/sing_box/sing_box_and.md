@@ -1,4 +1,4 @@
-# sing-box i 安卓，苹果ios 使用教程
+# sing-box  安卓，苹果ios 使用教程
 
 
 
