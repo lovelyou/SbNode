@@ -1,4 +1,4 @@
-# Hiddyfi win  linux mac 使用教程
+# Hiddify win  linux mac 使用教程
 
 
 本教程只写windows教程，其它系统提供下载连接，安装过程有差异，请自行完成安装过程
