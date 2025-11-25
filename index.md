@@ -10,20 +10,20 @@
 
  <font color="red" >
 
- 以下建议随时会改变，注意用不了的时候，可以到本站更换客户端
+ 以下建议随仅供参考，注意用不了的时候，可以到本站更换新的客户端
 
-windows平台建议用V2N和hiddify
+1,windows平台建议用本站提供的 V2N 和 hiddify
 <br />
 
-mac建议用hiddify
-
-<br />
-
-安卓 建议用hiddify和nekobox   
+2,mac建议用 hiddify
 
 <br />
 
-苹果 有能力的用 shadowrocket 体验更好  不想付费的用 hiddify和 singbox
+3,安卓 建议用  hiddify和 nekobox   （sing-box安卓暂时不建议有问题未修复）
+
+<br />
+
+4,苹果  shadowrocket 体验更好  不想付费的用 hiddify和 singbox
 
 
 </font>
