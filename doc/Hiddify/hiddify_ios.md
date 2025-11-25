@@ -8,10 +8,13 @@
 
 软件下载 ：
 
-安卓手机请下载：https://file.sbno.de/hiddify-app/Hiddify-Android-universal.apk
+安卓手机请下载1：[https://file.sbno.de/hiddify-app/Hiddify-Android-universal.apk](https://file.sbno.de/hiddify-app/Hiddify-Android-universal.apk)
 
 
-苹果手机请下载：https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone
+安卓 下载地址2：https://doc.sbno.de/soft/hiddify/Hiddify-Android-universal.apk
+
+
+苹果手机请下载：[https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone)
 
 苹果手机需要注册外区id,注册请参考本站的，外区id注册教程
 

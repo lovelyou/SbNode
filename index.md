@@ -19,7 +19,7 @@ mac建议用hiddify
 
 <br />
 
-安卓 建议用hiddify和nekobox
+安卓 建议用hiddify和nekobox   
 
 <br />
 
@@ -37,6 +37,10 @@ mac建议用hiddify
 
 
 [windows/linux/mac使用教程](doc/Hiddify/hiddify_win.md)
+
+
+[mac使用教程](doc/Hiddify/hiddify_mac.md)
+
 
 [安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
 

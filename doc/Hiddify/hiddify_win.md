@@ -4,11 +4,14 @@
 本教程只写windows教程，其它系统提供下载连接，安装过程有差异，请自行完成安装过程
 
 
-windows下载（绿色解压版，请解压到D盘的一个文件夹使用）：https://file.sbno.de/hiddify-app/Hiddify-Windows-Portable-x64.zip
+windows下载（绿色解压版，请解压到D盘的一个文件夹使用）：https://doc.sbno.de/soft/hiddify/Hiddify-Windows-Portable-x64.zip
 
-linux 暂时不提供下载连接，有需要可以联系
+linux   国产deepin/UOS   ubuntu/debian下载：   https://doc.sbno.de/soft/hiddify/Hiddify-Debian-x64.deb
 
-Mac下载 ：https://file.sbno.de/hiddify-app/Hiddify-MacOS.dmg
+linux   国产腾讯opencloudos  centos 红帽系下载: https://doc.sbno.de/soft/hiddify/Hiddify-rpm-x64.rpm
+
+
+Mac下载 ：https://doc.sbno.de/soft/hiddify/Hiddify-MacOS.dmg
 
 
 windows教程开始：
