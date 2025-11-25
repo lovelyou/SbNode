@@ -12,10 +12,23 @@ sing-box 目前支持  安卓  苹果 两个系统，
 
 
 
+### 注册appleid苹果账号的方法，去看本站提供的注册appleID的教程
+
+
+注册方法：
+
+
+
+视频 1   https://file.sbno.de/videos/appleidreg.mp4
+
+视频 2   [https://doc.sbno.de/videos/appleidreg.mp4](https://doc.sbno.de/videos/appleidreg.mp4)
+
+
+
+
+
 [苹果下载网址 ](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
 
-
-[安卓下载网址]()
 
 
 
