@@ -27,9 +27,9 @@
 
 #### Sing-box 安卓/苹果 移动端教程
 
-[IOS苹果 iphone/ipad 使用教程](doc/sing_box/sing_box_ios.md)
+[Sing-box  IOS苹果 iphone/ipad 使用教程](doc/sing_box/sing_box_ios.md)
 
-[Sing-box 安卓手机使用教程  <font color="red">使用流量有缺陷，WIFI无问题</font>](doc/sing_box/sing_box_and.md)
+[Sing-box  安卓 使用教程  <font color="red">使用流量有缺陷，WIFI无问题</font>](doc/sing_box/sing_box_and.md)
 
 ####  shadowrocket  小火箭 苹果ios系统
 
