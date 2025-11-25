@@ -11,6 +11,7 @@
  <font color="red" >
 
  以下建议随仅供参考，注意用不了的时候，可以到本站更换新的客户端
+<br />
 
 1,windows平台建议用本站提供的 V2N 和 hiddify
 <br />
@@ -30,13 +31,13 @@
 
 ####  windows平台 V2N
 
-[windows/linux/mac使用教程](doc/win_v2rayn.md)
+[windows使用教程](doc/win_v2rayn.md)
 
 
 #### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果)
 
 
-[windows/linux/mac使用教程](doc/Hiddify/hiddify_win.md)
+[windows/linux使用教程](doc/Hiddify/hiddify_win.md)
 
 
 [mac使用教程](doc/Hiddify/hiddify_mac.md)
