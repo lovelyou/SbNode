@@ -18,7 +18,7 @@ WhatsApp 官方下载
 https://www.whatsapp.com/android
 
 
-脸书Facebook lite版 官网下载地址
+脸书Facebook lite版 官网下载地址  版本是lite版，不是完整版功能不全
 
 https://www.facebook.com/lite/
 
@@ -26,7 +26,7 @@ https://www.facebook.com/lite/
 
 https://telegram.org/dl/android/apk
 
-Instagram  更新时间2023年7月19日
+
 
 ### 其它安卓程序，建议使用   APKPURE  下载程序最好是官方下载，注册下载安全，本站不对您的下载负责
 
