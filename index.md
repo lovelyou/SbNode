@@ -17,7 +17,7 @@
 [windows/linux/mac使用教程](doc/win_v2rayn.md)
 
 
-#### Hiddify-app (全平台支持)
+#### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果)
 
 
 [windows/linux/mac使用教程](doc/Hiddify/hiddify_win.md)
