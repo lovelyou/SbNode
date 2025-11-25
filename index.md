@@ -22,16 +22,18 @@
 
 [windows/linux/mac使用教程](doc/Hiddify/hiddify_win.md)
 
-[安卓/IOS苹果手机使用教程](doc/Hiddify/hiddify_ios.md)
+[安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
 
 
 #### Sing-box 安卓/苹果 移动端教程
 
-[IOS苹果手机使用教程](doc/sing_box/sing_box_ios.md)
+[IOS苹果 iphone/ipad 使用教程](doc/sing_box/sing_box_ios.md)
 
-[安卓手机使用教程](doc/sing_box/sing_box_and.md)
+[<font color="red">安卓手机使用教程  使用流量有缺陷，WIFI无问题</font>](doc/sing_box/sing_box_and.md)
 
+####  shadowrocket  小火箭 苹果ios系统
 
+[IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrocket.md)
 
 
 ## 进阶教程(选学)

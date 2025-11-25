@@ -1,6 +1,5 @@
 # 苹果手机小火箭使用方法
 
-
 因苹果手机不同版本不一样，有以下几种下载方法，供参考
 
 **苹果手机需要更换境外ID下载，需要境外带小火箭的id，请自行按照本站提供的教程注册或者本站帮助购买**
@@ -8,13 +7,37 @@
 
 美区id注册方法和软件下载 方法！充值可以自己到淘宝购买水果卡充值！
 
+### 注册appleid苹果账号的方法，去看本站提供的注册appleID的教程
 
-[苹果外区账号注册方法](https://btflyco.s3.ap-northeast-1.amazonaws.com/appleidreg.mp4)
+
+注册方法：
+
+
+
+视频 1   https://file.sbno.de/videos/appleidreg.mp4
+
+视频 2   [https://doc.sbno.de/videos/appleidreg.mp4](https://doc.sbno.de/videos/appleidreg.mp4)
+
 
 购买独享带小火箭id  40￥
 
 换好ID境外后点击以连接IOS下载
+
+
 [https://apps.apple.com/us/app/shadowrocket/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+###  下载好软件后，按以下教程操作
+
+
+简易视频教程：看不懂请自己看图文教程
+
+
+
+
+视频1  https://file.sbno.de/videos/shadowrockt.mp4
+
+
+视频2 [https://doc.sbno.de/videos/shadowrockt.mp4](https://doc.sbno.de/videos/shadowrockt.mp4)
 
 
 首先把手机的时间，时区调整正确，和正确的北京时间不能差30秒，有些喜欢把手机时间搞得很个性，都用不了。
