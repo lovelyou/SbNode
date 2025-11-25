@@ -2,15 +2,31 @@
 
 
 
-## 订阅连接的获取
+## 订阅连接的获取和登录地址
 
 [订阅连接获取](doc/subscribe.md)
 
 ## 入门教程(必学)
 
+ <font color="red" >
+
+ 以下建议随时会改变，注意用不了的时候，可以到本站更换客户端
+
+windows平台建议用V2N和hiddify
+<br />
+
+mac建议用hiddify
+
+<br />
+
+安卓 建议用hiddify和nekobox
+
+<br />
+
+苹果 有能力的用 shadowrocket 体验更好  不想付费的用 hiddify和 singbox
 
 
-
+</font>
 
 ####  windows平台 V2N
 
