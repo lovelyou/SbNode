@@ -27,7 +27,7 @@ sing-box 目前支持  安卓  苹果 两个系统，
 
 
 
-[苹果下载网址 ](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
+苹果下载网址 [https://apps.apple.com/us/app/sing-box-vt/id6673731168 ](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
 
 
 
