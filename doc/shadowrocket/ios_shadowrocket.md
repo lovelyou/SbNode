@@ -7,12 +7,10 @@
 
 美区id注册方法和软件下载 方法！充值可以自己到淘宝购买水果卡充值！
 
-### 注册appleid苹果账号的方法，去看本站提供的注册appleID的教程
+### 注册appleid苹果账号的方法，可参考以下注册教程
 
 
 注册方法：
-
-
 
 视频 1   https://file.sbno.de/videos/appleidreg.mp4
 
