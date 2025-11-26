@@ -29,12 +29,21 @@
 
 </font>
 
-####  windows平台 V2N
+####  windows平台 V2N  (不支持win7)
 
 [windows使用教程](doc/win_v2rayn.md)
 
 
-#### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果)
+
+#### Clash-verge (全平台支持windows64/linux/mac)(不支持win7)
+
+
+[windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
+
+
+
+
+#### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果) (不支持win7)
 
 
 [windows/linux使用教程](doc/Hiddify/hiddify_win.md)
@@ -44,6 +53,11 @@
 
 
 [安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
+
+
+
+
+
 
 
 #### Sing-box 安卓/苹果 移动端教程
