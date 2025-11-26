@@ -8,9 +8,26 @@
 ### 本教程仅供参考，不提供任何解答服务，羊毛自行退让，避免误伤，建议人手一个外区ID
 
 
-### 注册美区id的方法
 
-[苹果外区账号注册方法](https://btflyco.s3.ap-northeast-1.amazonaws.com/appleidreg.mp4)
+### 注册appleid苹果账号的方法，去看本站提供的注册appleID的教程
+
+
+注册方法：
+
+
+
+视频 1   https://file.sbno.de/videos/appleidreg.mp4
+
+视频 2   [https://doc.sbno.de/videos/appleidreg.mp4](https://doc.sbno.de/videos/appleidreg.mp4)
+
+
+
+
+
+
+
+
+
 
 ### 注册完美区id后如何用支付宝充值，干搞中奸商，不当韭菜。怕麻烦，建议找本站客服购买id，不带小火箭10￥ 带小火箭40￥，价格公道，童叟无欺
 
