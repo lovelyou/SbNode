@@ -35,7 +35,7 @@
 
 
 
-#### Clash-verge (全平台支持windows64/linux/mac)(不支持win7)
+#### Clash-verge (windows64/linux/mac)(不支持win7)
 
 
 [windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
