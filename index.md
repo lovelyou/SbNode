@@ -38,7 +38,7 @@
 #### Clash-verge (windows64/linux/mac)(不支持win7)
 
 
-[windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
+Clash-verge [ windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
 
 
 
@@ -46,13 +46,13 @@
 #### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果) (不支持win7)
 
 
-[windows/linux使用教程](doc/Hiddify/hiddify_win.md)
+Hiddify [windows/linux使用教程](doc/Hiddify/hiddify_win.md)
 
 
-[mac使用教程](doc/Hiddify/hiddify_mac.md)
+Hiddify [mac使用教程](doc/Hiddify/hiddify_mac.md)
 
 
-[安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
+Hiddify [安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
 
 
 
@@ -68,7 +68,7 @@
 
 ####  shadowrocket  小火箭 苹果ios系统
 
-[IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrocket.md)
+shadowrocket [IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrocket.md)
 
 
 ## 进阶教程(选学)
