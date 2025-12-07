@@ -73,6 +73,10 @@ shadowrocket [IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrock
 
 ## 进阶教程(选学)
 
+
+[Windows电脑共享网络，超详细设置方法，电脑共享vpn给手机翻](advance/computer_sharevpn.md)
+
+
 [安卓手机部分外贸apk下载](advance/and_apk.md)
 
 
