@@ -4,6 +4,10 @@
 
 
 
+下载地址1：https://doc.sbno.de/soft/nekobox/NekoBox-1.4.1-arm64-v8a.apk
+
+下载地址2：https://file.sbno.de/nekobox/NekoBox-1.4.1-arm64-v8a.apk
+
 
 NekoBox添加订阅
 启动后打开左上角菜单，选择分组
