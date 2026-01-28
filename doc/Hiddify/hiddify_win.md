@@ -45,7 +45,7 @@ windows教程开始：
 
 4，启动代理
 
-![](../images/hoddify/win/4.jpg)
+![](../images/hoddify/win/4_1.jpg)
 
 
 5，选择自己合适的节点，供自己使用
