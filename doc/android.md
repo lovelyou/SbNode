@@ -20,8 +20,7 @@ https://file.sbno.de/apk/cmfa-2.11.22-meta-universal-release.apk
 
 备用下载 **请从浏览器打开下载**
 
-https://shenbicloud.oss-cn-hongkong.aliyuncs.com/cfa-2.5.9-foss-universal-release.apk
-
+https://doc.sbno.de/soft/ClashMetaForAndroid/cmfa-2.11.22-meta-universal-release.apk
 
 
 
