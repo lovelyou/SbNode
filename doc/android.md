@@ -16,7 +16,7 @@
 
 连接1**请从浏览器打开下载**
 
-https://file.sbno.de/apk/cfa-2.5.9-foss-universal-release.apk
+https://file.sbno.de/apk/cmfa-2.11.22-meta-universal-release.apk
 
 备用下载 **请从浏览器打开下载**
 

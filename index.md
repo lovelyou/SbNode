@@ -41,6 +41,9 @@
 Clash-verge [ windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
 
 
+ClashMetaForAndroid[Android安卓使用教程](doc/andriod.md)
+
+
 
 
 #### Hiddify-app (全平台支持windows/linux/mac/安卓/苹果) (不支持win7)
@@ -69,6 +72,11 @@ Hiddify [安卓/IOS苹果使用教程](doc/Hiddify/hiddify_ios.md)
 ####  shadowrocket  小火箭 苹果ios系统
 
 shadowrocket [IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrocket.md)
+
+
+####  华为鸿蒙5.0，6.0系统  ClashBOX
+
+[鸿蒙Next5.0，6.0 clashbox 教程【需要动手能力】](doc/clashbox/clashbox.md)
 
 
 ## 进阶教程(选学)
