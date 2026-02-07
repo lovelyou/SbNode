@@ -71,6 +71,6 @@
 回到首页 点播放
 
 
- ![](../../images/clashbox/6_1.jpg)
+ ![](../../images/clashbox/9.jpg)
 
 
