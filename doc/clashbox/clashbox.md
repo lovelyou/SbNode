@@ -7,8 +7,7 @@
 注册华为香港区账号
 
 
-注册网址  https://id5.cloud.huawei.com/AMW/portal/home.html
-
+注册网址 [https://id5.cloud.huawei.com/AMW/portal/home.html](https://id5.cloud.huawei.com/AMW/portal/home.html)
 
 注册完账号后 从设置里退出你的账号，登录新账号。。下载 clashbox
 
