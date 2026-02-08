@@ -41,7 +41,7 @@
 Clash-verge [ windows/mac/linux 使用教程](doc/clash_verge/win_clash_verge.md)
 
 
-ClashMetaFor[Android安卓使用教程](doc/andriod.md)
+ClashMetaFor[Android安卓使用教程](doc/android.md)
 
 
 
