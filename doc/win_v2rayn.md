@@ -15,7 +15,13 @@
 本站备份
 
 
-https://file.sbno.de/win/net8.0-windows10.0.17763.zip
+地址1		https://file.sbno.de/win/net8.0-windows10.0.19041.0.zip
+
+
+
+
+
+地址2		https://doc.sbno.de/soft/v2rayn/net8.0-windows10.0.19041.0.zip
 
 
 
@@ -23,7 +29,7 @@ https://file.sbno.de/win/net8.0-windows10.0.17763.zip
 
 
 
-https://shenbicloud.oss-cn-hongkong.aliyuncs.com/net8.0-windows10.0.17763.zip
+https://shenbicloud.oss-cn-hongkong.aliyuncs.com/net8.0-windows10.0.19041.0.zip
 
 
 

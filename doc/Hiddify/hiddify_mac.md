@@ -5,7 +5,7 @@
 
 ### 下载软件
 
-Mac下载1 ：https://doc.sbno.de/soft/hiddify/Hiddify-MacOS.dmg
+Mac下载1 ：https://doc.sbno.de/soft/hiddify/v4.0.4/Hiddify-MacOS.dmg
 
 Mac下载2 https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg
 

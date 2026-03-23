@@ -77,6 +77,11 @@ shadowrocket [IOS苹果iphone/ipad 使用教程](doc/shadowrocket/ios_shadowrock
 [鸿蒙Next5.0，6.0 clashbox 教程【需要动手能力】](doc/clashbox/clashbox.md)
 
 
+####  其它可用软件
+
+windows/mac/linux  [OneXray](doc/onexray/onexray_win.md)
+
+
 ## 进阶教程(选学)
 
 
